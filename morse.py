@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # Morse code map
 MORSE_CODE_DICT = {
     'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.', 'F': '..-.',
